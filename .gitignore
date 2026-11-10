@@ -1,0 +1,16 @@
+# Java
+*.class
+target/
+out/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Local environment and secrets
+.env
+config-local.properties
